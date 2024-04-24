@@ -1,1 +1,2 @@
-# Projects
+# Sudoku
+Sudoku game project.
